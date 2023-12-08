@@ -1,7 +1,7 @@
 # Comparative Airbnb Calendar Data Analysis: Seattle and Boston
 
 ## Project Motivation
-This project offers an insightful comparative analysis of Airbnb calendar data for Seattle and Boston. The objective is to explore and understand the dynamics of Airbnb rentals in these two major cities, focusing specifically on availability and pricing trends over time. This analysis aims to provide valuable insights for both hosts and guests looking to navigate the Airbnb market in these urban areas.
+This project offers an insightful comparative analysis of Airbnb calendar data for [Boston](https://www.kaggle.com/datasets/airbnb/boston) and [Seattle](https://www.kaggle.com/datasets/airbnb/seattle/data). The objective is to explore and understand the dynamics of Airbnb rentals in these two major cities, focusing specifically on availability and pricing trends over time. This analysis aims to provide valuable insights for both hosts and guests looking to navigate the Airbnb market in these urban areas.
 
 ## Blog Post
 A detailed discussion and insights into this analysis are available in my Medium blog post. The post delves deeper into the comparative study, offering a richer narrative and understanding of the Airbnb market in these cities.
@@ -13,11 +13,6 @@ The analysis was conducted using the following Python libraries:
 - numpy: Used for numerical operations.
 - matplotlib: Employed for creating static, interactive, and informative visualizations.
 - seaborn: Utilized for high-level statistical graphics.
-
-## Files in the Repository
-- Boston_Seatle_Airbnb_Calendar_Data_Analysis-Udacity-1.ipynb: The main Jupyter Notebook that contains the comprehensive analysis of Airbnb calendar data for Seattle and Boston.
-- Datasets: The folder that contains [Boston](https://www.kaggle.com/datasets/airbnb/boston) and [Seattle](https://www.kaggle.com/datasets/airbnb/seattle/data) Airbnb datasets
-- README.md: This file offers an overview of the project and the contents of the repository.
 
 ## Summary of Results
 The study focused exclusively on the calendar data from Airbnb and revealed several key insights:
