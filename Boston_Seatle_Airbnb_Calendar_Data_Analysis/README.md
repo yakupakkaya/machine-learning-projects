@@ -9,15 +9,15 @@ A detailed discussion and insights into this analysis are available in my Medium
 ## Libraries Used
 The analysis was conducted using the following Python libraries:
 
-pandas: Essential for data manipulation and analysis.
-numpy: Used for numerical operations.
-matplotlib: Employed for creating static, interactive, and informative visualizations.
-seaborn: Utilized for high-level statistical graphics.
+- pandas: Essential for data manipulation and analysis.
+- numpy: Used for numerical operations.
+- matplotlib: Employed for creating static, interactive, and informative visualizations.
+- seaborn: Utilized for high-level statistical graphics.
 
 ## Files in the Repository
-Boston_Seatle_Airbnb_Calendar_Data_Analysis-Udacity-1.ipynb: The main Jupyter Notebook that contains the comprehensive analysis of Airbnb calendar data for Seattle and Boston.
-Datasets: The folder that contains [Boston](https://www.kaggle.com/datasets/airbnb/boston) and [Seattle](https://www.kaggle.com/datasets/airbnb/seattle/data) Airbnb datasets
-README.md: This file offers an overview of the project and the contents of the repository.
+- Boston_Seatle_Airbnb_Calendar_Data_Analysis-Udacity-1.ipynb: The main Jupyter Notebook that contains the comprehensive analysis of Airbnb calendar data for Seattle and Boston.
+- Datasets: The folder that contains [Boston](https://www.kaggle.com/datasets/airbnb/boston) and [Seattle](https://www.kaggle.com/datasets/airbnb/seattle/data) Airbnb datasets
+- README.md: This file offers an overview of the project and the contents of the repository.
 
 ## Summary of Results
 The study focused exclusively on the calendar data from Airbnb and revealed several key insights:
