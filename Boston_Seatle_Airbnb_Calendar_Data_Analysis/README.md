@@ -22,10 +22,10 @@ The analysis was conducted using the following Python libraries:
 ## Summary of Results
 The study focused exclusively on the calendar data from Airbnb and revealed several key insights:
 
-Availability Patterns: Analysis of how the availability of listings in Seattle and Boston varies throughout the year.
-Pricing Dynamics: A comparative look at how rental prices fluctuate over time in both cities.
-Market Differences: Identifying the unique characteristics and similarities in the Airbnb landscape of Seattle and Boston.
-It is important to note that this analysis did not include the listings and reviews datasets, focusing solely on the calendar data for a targeted exploration.
+- **Availability Patterns:** Analysis of how the availability of listings in Seattle and Boston varies throughout the year.
+- **Pricing Dynamics:** A comparative look at how rental prices fluctuate over time in both cities.
+- **Market Differences:** Identifying the unique characteristics and similarities in the Airbnb landscape of Seattle and Boston.
+It is important to note that this analysis did not include the listings and reviews datasets, focusing solely on the calendar data for targeted exploration.
 
 ## Acknowledgments
 I extend my gratitude to the Udacity Data Science Nanodegree program for encouraging me to publish a blog post about this study. Their guidance and the skills I've developed through the program were pivotal in conducting this analysis. Additionally, I'd like to thank Airbnb for making their data publicly available, which has been invaluable in facilitating this comparative study of the Seattle and Boston markets.
