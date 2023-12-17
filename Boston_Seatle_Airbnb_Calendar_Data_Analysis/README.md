@@ -4,7 +4,7 @@
 This project offers an insightful comparative analysis of Airbnb calendar data for [Boston](https://www.kaggle.com/datasets/airbnb/boston) and [Seattle](https://www.kaggle.com/datasets/airbnb/seattle/data). The objective is to explore and understand the dynamics of Airbnb rentals in these two major cities, focusing specifically on availability and pricing trends over time. This analysis aims to provide valuable insights for both hosts and guests looking to navigate the Airbnb market in these urban areas.
 
 ## Blog Post
-A detailed discussion and insights into this analysis are available in my Medium blog post. The post delves deeper into the comparative study, offering a richer narrative and understanding of the Airbnb market in these cities.
+A detailed discussion and insights into this analysis are available in my [Medium blog post](https://medium.com/@yakupakkaya/airbnb-trends-unveiled-a-closer-look-at-seattle-and-bostons-calendar-data-2328db7b979b). The post delves deeper into the comparative study, offering a richer narrative and understanding of the Airbnb market in these cities.
 
 ## Libraries Used
 The analysis was conducted using the following Python libraries:
